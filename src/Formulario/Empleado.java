@@ -20,7 +20,7 @@ import java.sql.PreparedStatement;
  * @author Roher
  */
 public class Empleado extends javax.swing.JFrame {
-    
+    //Hola maundo
     private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(Empleado.class.getName());
     CreateConection conexionPostgres = new CreateConection ();
     /**
