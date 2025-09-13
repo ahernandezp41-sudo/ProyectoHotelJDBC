@@ -21,6 +21,7 @@ import java.sql.PreparedStatement;
  */
 public class Empleado extends javax.swing.JFrame {
     //Hola maundo
+    //terminamos horas de labor
     private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(Empleado.class.getName());
     CreateConection conexionPostgres = new CreateConection ();
     /**
